@@ -3,7 +3,7 @@ With this application you can become a licensed user of Windows  8, 8.1 ,10,11! 
 You should open programm as administrator 
 ![license](https://github.com/WhiteeRabbit/Windows_Hooked_License_Activation/assets/143087729/ac8c60fd-5e4a-4454-a396-a5d62d9e67d1)
 ![cost](https://github.com/WhiteeRabbit/Windows_Hooked_License_Activation/assets/143087729/f4061b15-b3ef-4d2e-be0b-3ed9423ad586)
-
+-----------very expensive
 
 
 Program writed in c++.
