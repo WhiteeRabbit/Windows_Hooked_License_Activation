@@ -6,7 +6,7 @@ You should open programm as administrator,if exe does not work open the exe that
 -----------very expensive
 
 
-Program writed in c++.
+
 I alone wrote this program.
 I'm 13 by the way.
 if does not work download "vcredist x64" and "vcredist x86"
