@@ -1,5 +1,5 @@
 # Windows_Hooked_License_Activation
-‼️THIS PROGRAM IS CREATED TO EXPERIENCE THE POSSIBILITIES IN THE ACTIVATED WINDOWS. I AM NOT ANSWER FOR YOUR ACTION,PIRACY IS NOT GOOD AND ILLEGAL, I REPEAT I DON'T BE ANSWER FOR YOUR ACTION❗
+‼️THIS PROGRAM IS CREATED TO EXPERIENCE THE POSSIBILITIES IN THE ACTIVATED WINDOWS. I AM NOT ANSWER FOR YOUR ACTION,PIRACY IS NOT GOOD AND ILLEGAL, I REPEAT I DON'T BE ANSWER FOR YOUR ACTION
 ![WinHoliac](https://github.com/WhiteeRabbit/Windows_Hooked_License_Activation/assets/143087729/384ed8ba-5027-4028-8180-755c71c3b1bb)
 
 With this application you can become a licensed user of Windows  7, 8, 8.1 ,10, 11 and Windows server 2012 , 2012 R2 , 2016(all editions)💥! unlike KMS AUTO: 1-- no viruses 2-- antivirus does not swear 3-- works in all versions of windows 8.1 ,10,11 4-- works on windows servers(2012,2012 R2,2016) 5-- everything is done in one click! ******** And most importantly, it works on official versions, that is, you do not need to download a pirate ********
