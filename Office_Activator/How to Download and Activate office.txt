@@ -1,0 +1,18 @@
+First you should download Microsoft Office from offical site "https://www.microsoft.com/en-US/download/details.aspx?id=49117"
+Open and unpack officedeploymenttool_16626-20148.exe
+Don'topen setup.exe
+Then,you should openpowershell administrator and enter:
+cd (the place where you downloaded office. For example) ::::
+cd C:\Office
+after that enter::::
+Setup.exe /download (your configuration"i recomend 2019").xml
+Delete other .xml documents
+For example
+Setup.exe /download configuration-Office2019Enterprise.xml
+And download!
+*********************************************************************************************************************************
+Let's Activate That!
+
+First you should knew your office version
+To do this, open any program from office, I’ll open Microsoft Excel. And click on the account button. And there will be an inscription on the right corner of the Microsoft Office version. NO NEED TO LOG IN TO YOUR ACCOUNT!
+After that switch your office version and open my program as administrator and my congratulations now you PIRATE!
