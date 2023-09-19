@@ -1,14 +1,14 @@
 First you should download Microsoft Office from offical site "https://www.microsoft.com/en-US/download/details.aspx?id=49117"
 Open and unpack officedeploymenttool_16626-20148.exe
 Don'topen setup.exe
-Then,you should openpowershell administrator and enter:
+Then,you should open cmd as administrator and enter:
 cd (the place where you downloaded office. For example) ::::
 cd C:\Office
 after that enter::::
-Setup.exe /download (your configuration"i recomend 2019").xml
+setup.exe /configure (your configuration"i recomend 2019").xml
 Delete other .xml documents
 For example
-Setup.exe /download configuration-Office2019Enterprise.xml
+setup.exe /configure configuration-Office2019Enterprise.xml
 And download!
 *********************************************************************************************************************************
 Let's Activate That!
