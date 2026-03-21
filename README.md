@@ -14,8 +14,6 @@ You should open programm as administrator,if exe does not work open the exe that
 
 
 
-I alone wrote this program.
-I'm 13 by the way.
 if does not work download "vcredist x64" and "vcredist x86"
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 ‼️‼️‼️💥💥THIS PROGRAM IS CREATED TO EXPERIENCE THE POSSIBILITIES IN THE ACTIVATED WINDOWS.THIS IS FOR REFERENSE.I AM NOT RESPONSIBLE FOR YOUR ACTION💥💥‼️‼️‼️
